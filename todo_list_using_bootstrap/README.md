@@ -2,4 +2,4 @@
 
 
  
-Open [https://todo-list-using-bootstrap.netlify.app/](todo-list-using-bootstrap) 
+Open [https://todo-list-using-bootstrap.netlify.app/]
